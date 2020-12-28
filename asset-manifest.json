@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Vinay-Shoppies/static/js/main.ddcb12cd.chunk.js",
+    "main.js.map": "/Vinay-Shoppies/static/js/main.ddcb12cd.chunk.js.map",
+    "runtime-main.js": "/Vinay-Shoppies/static/js/runtime-main.c6fab60f.js",
+    "runtime-main.js.map": "/Vinay-Shoppies/static/js/runtime-main.c6fab60f.js.map",
+    "static/js/2.856f87d0.chunk.js": "/Vinay-Shoppies/static/js/2.856f87d0.chunk.js",
+    "static/js/2.856f87d0.chunk.js.map": "/Vinay-Shoppies/static/js/2.856f87d0.chunk.js.map",
+    "index.html": "/Vinay-Shoppies/index.html",
+    "precache-manifest.d01aaab0d9fbeb34c43bcc2d4c2e05ca.js": "/Vinay-Shoppies/precache-manifest.d01aaab0d9fbeb34c43bcc2d4c2e05ca.js",
+    "service-worker.js": "/Vinay-Shoppies/service-worker.js",
+    "static/js/2.856f87d0.chunk.js.LICENSE.txt": "/Vinay-Shoppies/static/js/2.856f87d0.chunk.js.LICENSE.txt",
+    "static/media/noImage.png": "/Vinay-Shoppies/static/media/noImage.104a1a91.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6fab60f.js",
+    "static/js/2.856f87d0.chunk.js",
+    "static/js/main.ddcb12cd.chunk.js"
+  ]
+}
