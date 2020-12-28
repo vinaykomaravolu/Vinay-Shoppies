@@ -12,6 +12,7 @@ import Card from '@material-ui/core/Card';
 import SearchIcon from '@material-ui/icons/Search';
 import IconButton from '@material-ui/core/IconButton';
 import InputAdornment from "@material-ui/core/InputAdornment";
+import Particles from 'react-particles-js';
 
 
 const useStyles = makeStyles((theme) => ({
@@ -27,7 +28,8 @@ const useStyles = makeStyles((theme) => ({
         left: 0,
         width: "100%",
         height: "100%",
-        zIndex: "-20",
+        zIndex: "-1",
+        backgroundColor: "#00091A"
     },
     textBar: {
         width: "100%",
@@ -46,6 +48,37 @@ const useStyles = makeStyles((theme) => ({
         padding: theme.spacing(1),
     }
 }));
+
+const particleBubbleParams = {
+    "particles": {
+        "number": {
+            "value": 160,
+            "density": {
+                "enable": false
+            }
+        },
+        "color": {
+            "value": ["#ffffff","#FF00FF"]
+        },
+        "size": {
+            "value": 7,
+            "random": true,
+            "anim": {
+                "speed": 2,
+                "size_min": 0.3
+            }
+        },
+        "line_linked": {
+            "enable": false
+        },
+        "move": {
+            "random": true,
+            "speed": 1,
+            "direction": "top",
+            "out_mode": "out"
+        },
+    },
+};
 
 export default function App() {
     const classes = useStyles();
@@ -119,11 +152,10 @@ export default function App() {
 
     return (
         <div>
-            <Card>
-                <Typography className={classes.title} variant="h3" component="h1" gutterBottom>
+            <Particles params={particleBubbleParams} className={classes.background} />
+            <Typography className={classes.title} variant="h3" component="h1" gutterBottom>
                     The Shoppies
             </Typography>
-            </Card>
             <Container>
                 <Box my={6}>
                     <Grid container spacing={3}>

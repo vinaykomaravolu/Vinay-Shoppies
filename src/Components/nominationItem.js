@@ -37,7 +37,7 @@ export default function NominationItem(props) {
                             type="submit"
                             fullWidth
                             variant="contained"
-                            color="primary"
+                            color="secondary"
                             id={bid}
                             onClick={handleRemoveNominate}
                         >

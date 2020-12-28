@@ -47,6 +47,8 @@ const useStyles = makeStyles((theme) => ({
         alignItems: 'center',
         paddingLeft: theme.spacing(1),
         paddingBottom: theme.spacing(1),
+        maxWidth: "60%",
+        marginLeft: "20%"
     },
 }));
 
@@ -88,7 +90,7 @@ export default function MovieItem(props) {
             >
                 <img width="22%" height="21%" src={data.Poster === "N/A" ? noImage : data.Poster} alt="new"/>
 
-                <Grid container alignItems="center" justify="center" spacing={1}>
+                <Grid container alignItems="center" justify="center" spacing={0}>
                     <Grid item xs={12}>
                         <Card style={{ backgroundColor: "#303030" }}>
                             <Typography className={classes.title} variant="h5">
