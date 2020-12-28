@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f3c2ffbd7a9a5eec9863f47626c3f5a",
+    "revision": "b08ebb59574d7b217360d645d3257b6f",
     "url": "/Vinay-Shoppies/index.html"
   },
   {
-    "revision": "c82b2b553175ee110285",
-    "url": "/Vinay-Shoppies/static/js/2.856f87d0.chunk.js"
+    "revision": "7cfa43565e06fa1d0938",
+    "url": "/Vinay-Shoppies/static/js/2.431df6a9.chunk.js"
   },
   {
     "revision": "d2266803016540034565984c8bb59069",
-    "url": "/Vinay-Shoppies/static/js/2.856f87d0.chunk.js.LICENSE.txt"
+    "url": "/Vinay-Shoppies/static/js/2.431df6a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60a6d0d24051588b5fb2",
-    "url": "/Vinay-Shoppies/static/js/main.ddcb12cd.chunk.js"
+    "revision": "b2cc9d940311cd35da18",
+    "url": "/Vinay-Shoppies/static/js/main.acb7fa0a.chunk.js"
   },
   {
     "revision": "2e3977b86b83cfebef1d",
