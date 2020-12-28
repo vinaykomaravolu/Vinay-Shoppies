@@ -5,7 +5,7 @@
 ## App
 Located here: https://vinaykomaravolu.github.io/Vinay-Shoppies/
 
-**Please Note that you need to use your own OMDB API KEY which can be found http://www.omdbapi.com/**
+**Note: you need to use your own OMDB API KEY which can be found http://www.omdbapi.com/**
 
 ## Features
 
