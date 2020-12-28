@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Vinay-Shoppies/precache-manifest.571d532b2812162e35d63e3f99d04ee7.js"
+  "/Vinay-Shoppies/precache-manifest.0d99f946caa6847651205f97d19e68de.js"
 );
 
 self.addEventListener('message', (event) => {
