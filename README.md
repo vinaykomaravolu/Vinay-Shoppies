@@ -2,6 +2,11 @@
 
 ## Project Created for UX Developer Intern & Web Developer Intern Challenge - Summer 2021
 
+## App
+Located here: https://vinaykomaravolu.github.io/Vinay-Shoppies/
+
+**Note: you need to use your own OMDB API KEY which can be found http://www.omdbapi.com/**
+
 ## Requirements
 
 1. Node version 15.0 or higher
@@ -16,11 +21,6 @@
 
 1. cd into Vinay-Shoppies
 2. run "npm start"
-
-## App
-Located here: https://vinaykomaravolu.github.io/Vinay-Shoppies/
-
-**Note: you need to use your own OMDB API KEY which can be found http://www.omdbapi.com/**
 
 ## Features
 
