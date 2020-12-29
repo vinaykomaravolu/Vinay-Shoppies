@@ -13,7 +13,7 @@ Located here: https://vinaykomaravolu.github.io/Vinay-Shoppies/
 1. Node version 15.0 or higher
 2. NPM version 7.0 or higher 
 
-## #Installation
+### Installation
 
 1. Clone repo
 2. run "npm install"
