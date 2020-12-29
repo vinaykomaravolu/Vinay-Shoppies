@@ -7,17 +7,18 @@ Located here: https://vinaykomaravolu.github.io/Vinay-Shoppies/
 
 **Note: you need to use your own OMDB API KEY which can be found http://www.omdbapi.com/**
 
-## Requirements
+## Run Locally
+### Requirements
 
 1. Node version 15.0 or higher
 2. NPM version 7.0 or higher 
 
-## Installation
+## #Installation
 
 1. Clone repo
 2. run "npm install"
 
-## Run Locally
+### Run
 
 1. cd into Vinay-Shoppies
 2. run "npm start"
