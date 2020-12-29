@@ -16,12 +16,12 @@ Located here: https://vinaykomaravolu.github.io/Vinay-Shoppies/
 ### Installation
 
 1. Clone repo
-2. run "npm install"
+2. cd into Vinay-Shoppies
+3. run "npm install"
 
 ### Run
 
-1. cd into Vinay-Shoppies
-2. run "npm start"
+In Vinay-Shoppies directory run "npm start"
 
 ## Features
 
